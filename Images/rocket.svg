@@ -1,0 +1,20 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="rocketGradientIcon" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F97316" /> <stop offset="100%" stop-color="#FB923C" /> </linearGradient>
+  </defs>
+
+  <circle cx="50" cy="50" r="45" fill="url(#rocketGradientIcon)" />
+
+  <g transform="rotate(45, 50, 50)">
+    <path d="M50 20C50 20 42 35 42 55C42 62 45 65 50 65C55 65 58 62 58 55C58 35 50 20 50 20Z" fill="white" />
+    
+    <path d="M42 50C38 52 35 60 35 65H42V50Z" fill="white" />
+    
+    <path d="M58 50C62 52 65 60 65 65H58V50Z" fill="white" />
+
+    <path d="M47 70C47 70 48 78 50 78C52 78 53 70 53 70H47Z" fill="white" fill-opacity="0.8" />
+    
+    <circle cx="50" cy="45" r="3" fill="#F97316" />
+  </g>
+</svg>
